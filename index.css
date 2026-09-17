@@ -1,3 +1,54 @@
-.green {
-  color: green;
+
+body {
+  font-family: sans-serif;
+  background-color: #ffbdf4;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+  background-color: #b84491;
+  color: white;
+  padding: 30px 0;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+
+.box {
+  width: 350px;
+  height: 200px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+
+.website {
+  color: #25041a;
+  font-size: 1.75em;
+  font-weight: bold;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+
+.website:hover {
+  color: #751154;
+  text-decoration: underline;
+}
+
+.repo {
+  color: #4e0b38;
+  font-size: 1.25em;
 }
