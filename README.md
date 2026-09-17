@@ -15,4 +15,4 @@ This is a static site with no build process or dependencies required.
 
 ## Live Site
 
-This project is hosted on Azure at: 
+This project is hosted on Azure at: https://purple-sea-0250f4710.6.azurestaticapps.net/
